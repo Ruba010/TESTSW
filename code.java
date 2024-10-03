@@ -1,4 +1,6 @@
 //----------------------------------------------------------------------------------------------
+// name :Ruba mohsen AL-saedi 
+// id : 444001785
 
 // Java code for linearly search x in arr[]. If x
 
